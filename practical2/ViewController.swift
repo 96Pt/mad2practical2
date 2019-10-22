@@ -17,8 +17,7 @@ class ViewController: UIViewController {
     var friend5 = Friend(firstname:"Austin",lastname:"",age:19)
     
     var friendsList:[Friend] = []
-    
-    //friendList += [friend1]
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
